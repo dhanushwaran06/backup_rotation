@@ -12,4 +12,4 @@ This shell script automates the process of backing up and rotating log files on 
 ## Usage Instructions
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/log-backup-rotation-script.git
+   https://github.com/dhanushwaran06/backup_rotation.git
